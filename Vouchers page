@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>vouchers</title>
+<link href="vouchers.css" rel="stylesheet" type="text/css">
+<link href="css/bootstrap-4.4.1.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<header> <br>
+  <h1>VOUCHERS&nbsp;</h1> 
+        <!-- Add your logo here --> <!-- Add your logo here -->
+		<center><img src="logo.jpg" alt="Shoe Market Logo" width="149" height="100"><br><br><h3>Rs.500 to Rs.5000 Gift vouchers available here </h3></center><br>
+    </header> 
+<br><center><img src="images/voucher-02.jpg" width="400" class="rounded">
+	</center><br><br>
+	
+<div class="row">
+	  <div class="col-xl-6"><center>
+									<button type="button" class="btn btn-dark">  Rs. 500<br><h4>Click Here to buy</h4> </button></center>
+      </div>
+	  <div class="col-xl-6"><center>
+  <button type="button" class="btn btn-dark">  Rs. 1000<br><h4>Click Here to buy</h4> </button></center></div>
+</div><br>
+<div class="row">
+  <div class="col-xl-6"><center>
+  <button type="button" class="btn btn-dark">  Rs. 1500<br><h4>Click Here to buy</h4> </button></center></div>
+  <div class="col-xl-6"><center>
+  <button type="button" class="btn btn-dark">  Rs. 2000<br><h4>Click Here to buy</h4> </button></center></div>
+</div><br>
+<div class="row">
+	  <div class="col-xl-6"><center>
+  <button type="button" class="btn btn-dark">  Rs. 5000<br><h4>Click Here to buy</h4> </button></center></div>
+	  <div class="col-xl-6"><center>
+  <button type="button" class="btn btn-dark">  Rs. 10000<br><h4>Click Here to buy</h4> </button></center></div>
+</div><br><br><br><br><br><br><footer><br><br><br><br></footer>
+</body>
+</html>
